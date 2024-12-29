@@ -24,26 +24,28 @@ To run the website locally, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/iubh.edu.vn.git
-Navigate to the project directory:
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd iubh.edu.vn
+   ```
 
-bash
-Copy code
-cd iubh.edu.vn
-Open index.html in your browser to view the website.
+3. Open index.html in your browser to view the website.
 
-Contribution
+## Contribution
 If you would like to contribute to the development of this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your changes.
+4. Push to your forked repository.
+5. Create a pull request with a detailed description of your changes.
 
-Fork the repository.
-Create a new branch.
-Commit your changes.
-Push to your forked repository.
-Create a pull request with a detailed description of your changes.
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
 For any questions or inquiries, please contact:
 
 Email: daotao@iubh.edu.vn
+
 Website: https://iubh.edu.vn/
